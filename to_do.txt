@@ -1,0 +1,12 @@
+lavel_1
+	laravel
+	node.js
+	在网页上显示图表
+	MTGA基础分析工具
+
+	部署CDN服务器
+	申请域名，部署网站
+
+lavel_2
+	machine_learn
+	
