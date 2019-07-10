@@ -1,1 +1,5 @@
-https://github.com/nightzlh/work_note.git
+https://www.codementor.io/npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef
+
+https://tuhdo.github.io/os01/
+
+https://www.allaboutcircuits.com/textbook/
